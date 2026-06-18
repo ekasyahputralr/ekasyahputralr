@@ -58,5 +58,3 @@ In the face of the word ” <strong>Youth</strong>  ”, they will twist any com
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 <hr>
-<p>Credit:<a href="https://github.com/DSDmark">Sanskarsahu</a>
-Last Edited on: 1/4/2022</p></b> 
