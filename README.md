@@ -38,62 +38,7 @@
 <p>⚡ Fun fact: I spend almost time to watch <strong>anime</strong>.</p>
 </li>
 </ul>
-<h2 id="technologies">Technologies</h2>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#E1E4E8">flowchart </span></span>
-<span class="line"><span style="color:#E1E4E8">f1[HTML]</span></span>
-<span class="line"><span style="color:#E1E4E8">f2[Css]</span></span>
-<span class="line"><span style="color:#E1E4E8">f3[javaScpit]</span></span>
-<span class="line"><span style="color:#E1E4E8">f4[Markdown]</span></span>
-<span class="line"><span style="color:#E1E4E8">fw1((ReactJs))</span></span>
-<span class="line"><span style="color:#E1E4E8">fw2((NextJs))</span></span>
-<span class="line"><span style="color:#E1E4E8">fw3((Bootstrap))</span></span>
-<span class="line"><span style="color:#E1E4E8">fw4((tailwind))</span></span>
-<span class="line"><span style="color:#E1E4E8">fw5((Scss))</span></span>
-<span class="line"><span style="color:#E1E4E8">fw6((mermaid))</span></span>
-<span class="line"><span style="color:#E1E4E8">b1{NodeJs}</span></span>
-<span class="line"><span style="color:#E1E4E8">b2{RestAPIs}</span></span>
-<span class="line"><span style="color:#E1E4E8">b3{PHP}</span></span>
-<span class="line"><span style="color:#E1E4E8"> subgraph  BackEnd</span></span>
-<span class="line"><span style="color:#E1E4E8">b1</span></span>
-<span class="line"><span style="color:#E1E4E8">b2</span></span>
-<span class="line"><span style="color:#E1E4E8">b3</span></span>
-<span class="line"><span style="color:#E1E4E8"> end  </span></span>
-<span class="line"><span style="color:#E1E4E8"> subgraph Framworks </span></span>
-<span class="line"><span style="color:#E1E4E8">fw1</span></span>
-<span class="line"><span style="color:#E1E4E8">fw2</span></span>
-<span class="line"><span style="color:#E1E4E8">fw3</span></span>
-<span class="line"><span style="color:#E1E4E8">fw4</span></span>
-<span class="line"><span style="color:#E1E4E8">fw5</span></span>
-<span class="line"><span style="color:#E1E4E8">fw6</span></span>
-<span class="line"><span style="color:#E1E4E8"> end</span></span>
-<span class="line"><span style="color:#E1E4E8">  subgraph  FrontEnd </span></span>
-<span class="line"><span style="color:#E1E4E8"> f1</span></span>
-<span class="line"><span style="color:#E1E4E8"> f2</span></span>
-<span class="line"><span style="color:#E1E4E8"> f3</span></span>
-<span class="line"><span style="color:#E1E4E8"> f4</span></span>
-<span class="line"><span style="color:#E1E4E8"> end  </span></span>
-<span class="line"><span style="color:#E1E4E8"> f1 --o f2</span></span>
-<span class="line"><span style="color:#E1E4E8"> f1 --o f3</span></span>
-<span class="line"><span style="color:#E1E4E8"> f1 --o f4</span></span>
-<span class="line"><span style="color:#E1E4E8"> f2 --&gt; fw3</span></span>
-<span class="line"><span style="color:#E1E4E8"> f2 --&gt; fw4</span></span>
-<span class="line"><span style="color:#E1E4E8"> f2 --&gt; fw5</span></span>
-<span class="line"><span style="color:#E1E4E8"> f3 --o fw1</span></span>
-<span class="line"><span style="color:#E1E4E8"> f3 --o fw2</span></span>
-<span class="line"><span style="color:#E1E4E8"> fw2 --o b1</span></span>
-<span class="line"><span style="color:#E1E4E8"> f4 --&gt; fw6</span></span>
-<span class="line"><span style="color:#E1E4E8"> b1 --o b2</span></span></code></pre>
 <h2 id="touch-me--ˊˋ">Touch Me  ˊ•⌔•ˋ</h2>
-
-
-
-
-
-
-
-
-
-
 <table><thead><tr><th align="left"><a href="https://discord.gg/xm4DN6JTVt">Discord</a></th><th align="left"><a href="https://github.com/DSDmark/">Github</a></th><th align="left"><a href="">LinkIn</a></th><th align="left"><a href="https://dev.to/dsmark">DevToCommunity</a></th><th align="left"><a href="sahup3296@gmail.com">Gmail</a></th></tr></thead></table>
 <hr>
 <blockquote>
