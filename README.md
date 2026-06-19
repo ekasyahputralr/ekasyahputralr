@@ -1,56 +1,29 @@
-<h3 id="computer--programs--tools">Computer :&gt; Programs &amp;&amp; Tools</h3>
-<img alt="dsmark" align="right" height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">flowchart</span><span style="color:#B392F0"> TB</span></span>
-<span class="line"><span style="color:#FFAB70"> A</span><span style="color:#F97583">&gt;</span><span style="color:#9ECBFF">"Computer"</span><span style="color:#F97583">]</span><span style="color:#E1E4E8">  </span></span>
-<span class="line"><span style="color:#FFAB70"> B</span><span style="color:#F97583">[(</span><span style="color:#9ECBFF">"Programs"</span><span style="color:#F97583">)]</span><span style="color:#E1E4E8"> </span></span>
-<span class="line"><span style="color:#FFAB70"> C</span><span style="color:#F97583">[(</span><span style="color:#9ECBFF">"Tools"</span><span style="color:#F97583">)]</span></span>
-<span class="line"><span style="color:#FFAB70"> A </span><span style="color:#F97583">--&gt;</span><span style="color:#FFAB70"> B</span></span>
-<span class="line"><span style="color:#FFAB70"> A </span><span style="color:#F97583">--&gt;</span><span style="color:#FFAB70"> C</span></span></code></pre>
-<ul>
-<li>
-<p><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png" width="16"> <strong>Vscode</strong> not for web it for everything</p>
-</li>
-<li>
-<p><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width="16"> Chromium base web browser like <strong>Firefox</strong></p>
-</li>
-<li>
-<p><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width="16"> <a href="https://getpaint.net"><strong>Gimp</strong></a> for image manipulation</p>
-</li>
-<li>
-<p><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width="16"> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, <strong>PopsOs</strong> by (System76)</p>
-</li>
-<li>
-<p>🌱 I’m currently learning more about <strong>Reactjs(Nextjs)</strong>.</p>
-</li>
-<li>
-<p>👯 I’m looking to collaborate on <a href="https://github.com/DSDarkMark/project_short" title="DSmark Project">github</a>.</p>
-</li>
-<li>
-<p>🤔 I’m looking for help with Nextjs documentation.</p>
-</li>
-<li>
-<p>💬 Ask me about web Development or any tech-related stuff.</p>
-</li>
-<li>
-<p>😄 Pronouns: He/His</p>
-</li>
-<li>
-<p>⚡ Fun fact: I spend almost time to watch <strong>anime</strong>.</p>
-</li>
-</ul>
-<h2 id="touch-me--ˊˋ">Touch Me  ˊ•⌔•ˋ</h2>
-<table><thead><tr><th align="left"><a href="https://discord.gg/xm4DN6JTVt">Discord</a></th><th align="left"><a href="https://github.com/DSDmark/">Github</a></th><th align="left"><a href="">LinkIn</a></th><th align="left"><a href="https://dev.to/dsmark">DevToCommunity</a></th><th align="left"><a href="sahup3296@gmail.com">Gmail</a></th></tr></thead></table>
+  <h1 id="hi-im-jessica">Hi I’m Jessica 👋</h1>
+<p><a href="https://www.linkedin.com/in/jlim/"><img src="https://img.shields.io/badge/-jlim-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jlim/" alt="Linkedin Badge"></a>
+<a href="https://medium.com/@_jessicalim"><img src="https://img.shields.io/badge/-@__jessicalim-000000?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@_jessicalim" alt="Medium Badge"></a>
+<a href="https://jessicalim.me"><img src="https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://jessicalim.me" alt="Website Badge"></a>
+<a href="https://twitter.com/_jesslim"><img src="https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/_jesslim" alt="Twitter Badge"></a>
+<a href="https://instagram.com/jlim_slam"><img src="https://img.shields.io/badge/-@jlim__slam-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/jlim_slam/" alt="Instagram Badge"></a>
+<a href="mailto:jessicalim813@gmail.com"><img src="https://img.shields.io/badge/-jessicalim813-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jessicalim813@gmail.com" alt="Gmail Badge"></a></p>
+<p>Welcome to my profile! I’m a student interning @Microsoft, an aspiring <a href="https://medium.com/@_jessicalim">writer</a>, part-time coder and full-time adventure seeker. Thanks for visiting and I’d love to <a href="https://www.linkedin.com/in/jlim/">connect</a>!</p>
+<h2 id="join-the-community-word-cloud-cloud-pencil2">Join the Community Word Cloud :cloud: :pencil2:</h2>
+<p><img src="https://img.shields.io/badge/Words%20Added-188-brightgreen?labelColor=7D898B" alt="">
+<img src="https://img.shields.io/badge/Word%20Clouds%20Created-4-48D6FF?labelColor=7D898B" alt="">
+<img src="https://img.shields.io/badge/Total%20Participants-117-AC6EFF?labelColor=7D898B" alt=""></p>
+<h3 id="thought_balloon-add-a-word-to-see-the-word-cloud-update-in-real-time-rocket">:thought_balloon: <a href="https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&amp;title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E">Add a word</a> to see the word cloud update in real time :rocket:</h3>
+<p>A new word cloud will be automatically generated when you <a href="https://github.com/JessicaLim8/JessicaLim8/issues/new?template=addword.md&amp;title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E">add your own word</a>. The prompt will change frequently, so be sure to come back and check it out :relaxed:</p>
+<p>:star2: Don’t like the arrangement of the current word cloud? <a href="https://github.com/JessicaLim8/JessicaLim8/issues/new?template=shufflecloud.md&amp;title=wordcloud%7Cshuffle">Regenerate it</a> :game_die:</p>
+<div align="center">
+<h2 id="what-podcast-are-you-currently-listening-to-microphone-headphones-notes">What podcast are you currently listening to? :microphone: :headphones: :notes:</h2>
+  <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+<p><img src="https://img.shields.io/badge/Words%20in%20this%20Cloud-23-informational?labelColor=7D898B" alt="Word Cloud Words Badge">
+<img src="https://img.shields.io/badge/Contributors%20this%20Cloud-18-blueviolet?labelColor=7D898B" alt="Word Cloud Contributors Badge"></p>
+<p><a href="https://github.com/motiontx"><img src="https://img.shields.io/badge/-@motiontx-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/motiontx" alt="Github Badge"></a> <a href="https://github.com/stingalleman"><img src="https://img.shields.io/badge/-@stingalleman-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/stingalleman" alt="Github Badge"></a> <a href="https://github.com/NihalV123"><img src="https://img.shields.io/badge/-@NihalV123-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/NihalV123" alt="Github Badge"></a> <a href="https://github.com/alrifay"><img src="https://img.shields.io/badge/-@alrifay-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/alrifay" alt="Github Badge"></a> <a href="https://github.com/a-developer-and-her-mac"><img src="https://img.shields.io/badge/-@a--developer--and--her--mac-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/a-developer-and-her-mac" alt="Github Badge"></a> <a href="https://github.com/SahilMund"><img src="https://img.shields.io/badge/-@SahilMund-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/SahilMund" alt="Github Badge"></a> <a href="https://github.com/diggerdu"><img src="https://img.shields.io/badge/-@diggerdu-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/diggerdu" alt="Github Badge"></a> <a href="https://github.com/UserBlackBox"><img src="https://img.shields.io/badge/-@UserBlackBox-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/UserBlackBox" alt="Github Badge"></a> <a href="https://github.com/reeveng"><img src="https://img.shields.io/badge/-@reeveng-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/reeveng" alt="Github Badge"></a> <a href="https://github.com/jy1263"><img src="https://img.shields.io/badge/-@jy1263-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/jy1263" alt="Github Badge"></a> <a href="https://github.com/eagleanurag"><img src="https://img.shields.io/badge/-@eagleanurag-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/eagleanurag" alt="Github Badge"></a> <a href="https://github.com/MaanavD"><img src="https://img.shields.io/badge/-@MaanavD-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/MaanavD" alt="Github Badge"></a> <a href="https://github.com/cdthomp1"><img src="https://img.shields.io/badge/-@cdthomp1-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/cdthomp1" alt="Github Badge"></a> <a href="https://github.com/toxicmender"><img src="https://img.shields.io/badge/-@toxicmender-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/toxicmender" alt="Github Badge"></a> <a href="https://github.com/hayat-tamboli"><img src="https://img.shields.io/badge/-@hayat--tamboli-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/hayat-tamboli" alt="Github Badge"></a> <a href="https://github.com/thedoodler"><img src="https://img.shields.io/badge/-@thedoodler-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/thedoodler" alt="Github Badge"></a> <a href="https://github.com/JonathanGin52"><img src="https://img.shields.io/badge/-@JonathanGin52-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/JonathanGin52" alt="Github Badge"></a> <a href="https://github.com/JessicaLim8"><img src="https://img.shields.io/badge/-@JessicaLim8-24292e?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/JessicaLim8" alt="Github Badge"></a></p>
+<p>Check out the <a href="https://github.com/JessicaLim8/JessicaLim8/blob/master/previous_clouds/previous_clouds.md#favourite/dream-company-money_with_wings-star2-chart_with_upwards_trend">previous word cloud</a> to see our community’s <strong>Favourite/Dream Company? :money_with_wings: :star2: :chart_with_upwards_trend:</strong></p></div><p></p>
+<h3 id="need-inspiration-for-your-own-readme-check-out-how-to-stand-out-on-github-using-profile-readmes">Need inspiration for your own README? Check out <a href="https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&amp;sk=61df9c4b63b329ad95528b8d7c00061f">How to Stand out on GitHub using Profile READMEs</a></h3>
 <hr>
-<blockquote>
-<p><strong>Youth is a lie. It is nothing but evil.</strong></p>
-</blockquote>
-<p>Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them.
-ʕ •́؈•̀ ₎
-In the face of the word ” <strong>Youth</strong>  ”, they will twist any common interpretation or accepted notion out of recognition.</p>
-<p>In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.</p>
-<p>If failure is truly the proof of one’s youth…</p>
-<p>Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.</p>
-<p>My conclusion is this All you fools who delight in youth…</p>
+<p>Credits: <a href="https://github.com/JessicaLim8">Jessica Lim</a></p>
+<p>Last Edited on: 25/11/2020</p> 
 <blockquote>
 <p><strong>Be Drop Dead.</strong></p>
 </blockquote>
